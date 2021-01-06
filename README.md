@@ -1,2 +1,4 @@
 # hello-world
-learning how to navigate the site
+//
+I a learning to make changes
+learning how to navigate the sit
